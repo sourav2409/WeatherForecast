@@ -1,0 +1,39 @@
+﻿<div class="search">
+    <form #form="ngForm" (submit)="onSubmit()">
+        <input type="text" placeholder="Search city" name="city" [(ngModel)]="cityName">
+    </form>
+</div>
+
+<div class="container">
+    <div class="upper-data">
+        <img src="../assets/images/sunny.jpg" *ngIf="isDay()">
+        <img src="../assets/images/night.jpg" *ngIf="!isDay()">
+
+        <div class="current-weather-data">
+            <div class="location">{{ getLocation() }}</div>
+            <div class="temparature">{{ getCurrentTemp() | number: '1.0-0' }}°C</div>
+        </div>
+    </div>    
+</div>
+<div class="container forecast-container">
+        <div class="current-weather-data">
+            <div class="forcast-detail-box" *ngFor="let forcast of forecasts">
+                <div class="item">                    
+                    <label>{{ forcast.dayOfTheWeek }}</label>
+                </div>
+                <div class="item">                    
+                    <img [src]="forcast.day.condition.icon">
+                </div>
+                <div class="item">
+                    <label class="tempHeader">Min Temp</label>
+                    <label>{{forcast.day.mintempC | number: '1.0-0' }}°C</label>
+                </div>
+                <div class="item">
+                    <label class="tempHeader">Max Temp</label>
+                    <label>{{forcast.day.maxtempC | number: '1.0-0' }}°C</label>
+                </div>
+            </div>                        
+
+                        
+        </div>  
+</div>

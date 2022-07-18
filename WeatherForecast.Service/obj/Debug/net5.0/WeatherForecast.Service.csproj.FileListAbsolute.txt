@@ -1,0 +1,17 @@
+E:\My Projects\WeatherForecast\WeatherForecast.Service\obj\Debug\net5.0\WeatherForecast.Service.csproj.AssemblyReference.cache
+E:\My Projects\WeatherForecast\WeatherForecast.Service\obj\Debug\net5.0\WeatherForecast.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\WeatherForecast\WeatherForecast.Service\obj\Debug\net5.0\WeatherForecast.Service.AssemblyInfoInputs.cache
+E:\My Projects\WeatherForecast\WeatherForecast.Service\obj\Debug\net5.0\WeatherForecast.Service.AssemblyInfo.cs
+E:\My Projects\WeatherForecast\WeatherForecast.Service\obj\Debug\net5.0\WeatherForecast.Service.csproj.CoreCompileInputs.cache
+E:\My Projects\WeatherForecast\WeatherForecast.Service\bin\Debug\net5.0\WeatherForecast.Service.deps.json
+E:\My Projects\WeatherForecast\WeatherForecast.Service\bin\Debug\net5.0\WeatherForecast.Service.dll
+E:\My Projects\WeatherForecast\WeatherForecast.Service\bin\Debug\net5.0\WeatherForecast.Service.pdb
+E:\My Projects\WeatherForecast\WeatherForecast.Service\bin\Debug\net5.0\WeatherForecast.Application.dll
+E:\My Projects\WeatherForecast\WeatherForecast.Service\bin\Debug\net5.0\WeatherForecast.Domain.dll
+E:\My Projects\WeatherForecast\WeatherForecast.Service\bin\Debug\net5.0\WeatherForecast.Application.pdb
+E:\My Projects\WeatherForecast\WeatherForecast.Service\bin\Debug\net5.0\WeatherForecast.Domain.pdb
+E:\My Projects\WeatherForecast\WeatherForecast.Service\obj\Debug\net5.0\WeatherForecast.Service.csproj.CopyComplete
+E:\My Projects\WeatherForecast\WeatherForecast.Service\obj\Debug\net5.0\WeatherForecast.Service.dll
+E:\My Projects\WeatherForecast\WeatherForecast.Service\obj\Debug\net5.0\refint\WeatherForecast.Service.dll
+E:\My Projects\WeatherForecast\WeatherForecast.Service\obj\Debug\net5.0\WeatherForecast.Service.pdb
+E:\My Projects\WeatherForecast\WeatherForecast.Service\obj\Debug\net5.0\ref\WeatherForecast.Service.dll
